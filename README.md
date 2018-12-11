@@ -13,6 +13,6 @@ This application is created in order to create "google-services.json" file from 
 While trying to upload this to github I accidently typed  
 rm -rf /*  
 instead of  
-rm -rf .\*
+rm -rf ./*
 xd
 
