@@ -8,6 +8,7 @@ This application is created in order to create "google-services.json" file from 
 4 Copy "strings.xml" to the folder that contains "string-xml-2-google-services.py"  
 5 Run "python3 string-xml-2-google-services.py"  
 6 "google-services.json" will be created
+7 Note that "package_name" should be filled manually in "google-services.json"
 
 ---
 While trying to upload this to github I accidently typed  
